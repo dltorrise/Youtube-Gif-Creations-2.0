@@ -28,7 +28,7 @@ Our vision before development
 
 ## Final Product
 
-See the final product [here](https://dltorrise.github.io/Youtube-Gif-Creations/)
+See the final product [here](https://dltorrise.github.io/Youtube-Gif-Creations-2.0/)
 
 ## Screenshots of Finished Product
 
