@@ -339,5 +339,46 @@ li {
 }
 
 
+@media (max-width: 690px) {
+    #video-results {
+        flex-direction: column;
+    }
 
+    #video-results h6 {
+        width: 100vw;
+    }
+
+    #video-container {
+        width: 100vw;
+        height: 50vh;
+    }
+
+    #save-video-button {
+        display: flex;
+        justify-content: center;
+    }
+
+    .previous-video-container {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    h4 {
+        text-align: center;
+    }
+
+    #gif-for-video {
+        width: 100%;
+    height: 50vh;
+    }
+
+    ol {
+        justify-self: center;
+    }
+
+    h6 {
+        text-align: center;
+    }
+}
 
