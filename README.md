@@ -1,4 +1,4 @@
-# Youtube GIF Creations
+# Youtube GIF Creations 2.0
 
 This is an app where you can easily make videos with your favorite songs
 and a relevant gif to create a better listening experience
