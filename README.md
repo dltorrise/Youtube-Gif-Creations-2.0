@@ -3,6 +3,8 @@
 This is an app where you can easily make videos with your favorite songs
 and a relevant gif to create a better listening experience
 
+Note: This is a clone repository of a group project I did with classmates. The original repository is [here](https://github.com/dltorrise/Youtube-Gif-Creations). Currently the main difference is a more mobile friendly design, though I might add more edits in the future.
+
 ## User Story
 
 - As a music listener
